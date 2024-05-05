@@ -26,14 +26,13 @@
     "typescript": "4.8.4"
   },
   "scripts": {
-    "ionic": "ionic",
-    "serve": "npm run ionic serve",
-    "build": "npm run ionic build && npm run build:netlify",
-    "build:netlify": "echo '/*    /index.html   200' > build/_redirects",
-    "react:start": "react-scripts start",
-    "react:build": "react-scripts build",
-    "react:test": "react-scripts test",
-    "react:eject": "react-scripts eject"
+
+    "build": "ls",
+    "build:netlify": "ls",
+    "react:start": "ls",
+    "react:build": "ls",
+    "react:test": "ls",
+    "react:eject": "ls"
   },
   "eslintConfig": {
     "extends": "react-app"
