@@ -1,11 +1,8 @@
 {
   "name": "ionic-wp-capacitor",
-  "version": "0.0.1",
-  "private": true
-
+  "version": "0.0.1"
   },
   "scripts": {
-
     "build": "ls",
     "build:netlify": "ls",
     "react:start": "ls",
