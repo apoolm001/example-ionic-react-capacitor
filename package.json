@@ -1,6 +1,8 @@
 {
   "name": "ionic-wp-capacitor",
-  "version": "0.0.1"
+  "version": "0.0.1",
+    "dependencies": {
+    "react": "18.2.0"
   },
   "scripts": {
     "build": "ls",
@@ -9,21 +11,6 @@
     "react:build": "ls",
     "react:test": "ls",
     "react:eject": "ls"
-  },
-  "eslintConfig": {
-    "extends": "react-app"
-  },
-  "browserslist": {
-    "production": [
-      ">0.2%",
-      "not dead",
-      "not op_mini all"
-    ],
-    "development": [
-      "last 1 chrome version",
-      "last 1 firefox version",
-      "last 1 safari version"
-    ]
   },
   "devDependencies": {
     "@capacitor/cli": "2.5.0",
