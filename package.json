@@ -5,12 +5,7 @@
     "react": "18.2.0"
   },
   "scripts": {
-    "build": "ls",
-    "build:netlify": "ls",
-    "react:start": "ls",
-    "react:build": "ls",
-    "react:test": "ls",
-    "react:eject": "ls"
+    "build": "lscpu"
   },
   "devDependencies": {
     "@capacitor/cli": "2.5.0",
